@@ -1,0 +1,6 @@
+# CryptoKitties family tree
+
+parent = 0x06012c8cf97BEaD5deAe237070F9587f8E7A266d getKitty(uint256) 12345
+
+# Get the matron (mother) - assuming getKitty returns tuple with matronId at position 4
+0x06012c8cf97BEaD5deAe237070F9587f8E7A266d ownerOf(uint256) 888

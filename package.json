@@ -1,0 +1,24 @@
+{
+  "name": "call-lang",
+  "version": "1.0.0",
+  "description": "A minimal language that only calls existing smart contracts",
+  "main": "call.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "blockchain",
+    "smart-contracts",
+    "esolang",
+    "ethereum",
+    "composability"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.14.1"
+  },
+  "devDependencies": {
+    "mocha": "^11.4.0"
+  }
+}

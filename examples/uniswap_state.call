@@ -1,0 +1,8 @@
+# Uniswap pool state snapshot
+
+current_tick = 0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640 slot0()
+liquidity = 0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640 liquidity()
+fee = 0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640 fee()
+
+0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640 token0()
+0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640 token1()
